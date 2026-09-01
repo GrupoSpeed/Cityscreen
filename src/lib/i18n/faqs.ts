@@ -339,7 +339,7 @@ const pt: FaqBundle = {
     },
     {
       q: "Como funciona a ligação?",
-      a: "Cada ecrã liga por modem celular ou fibra dedicada ao nosso CMS na nuvem. Programa criatividades, cria listas de reprodução e monitoriza o estado dos painéis a partir de um único painel de controlo. O sistema envia alertas automáticos de qualquer falha antes que afete a emissão.",
+      a: "Cada ecrã liga por modem móvel ou fibra dedicada ao nosso CMS na nuvem. Programa criatividades, cria listas de reprodução e monitoriza o estado dos painéis a partir de um único painel de controlo. O sistema envia alertas automáticos de qualquer falha antes que afete a emissão.",
     },
     {
       q: "O funcionamento 24/7 está coberto?",
