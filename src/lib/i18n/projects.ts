@@ -16,7 +16,7 @@ const en: Project[] = [
   {
     slug: "bay-street-media-facade",
     title: "Eight-storey media facade",
-    location: "Bay Street, Toronto",
+    location: "Avenida da Liberdade, Lisbon",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2025",
@@ -33,7 +33,7 @@ const en: Project[] = [
   {
     slug: "grid-control-room",
     title: "Grid operations video wall",
-    location: "Mississauga",
+    location: "Alfragide",
     discipline: "Professional",
     disciplineKey: "professional",
     year: "2025",
@@ -50,7 +50,7 @@ const en: Project[] = [
   {
     slug: "queen-west-shopfront",
     title: "Transparent shopfront wall",
-    location: "Queen Street West, Toronto",
+    location: "Rua Garrett, Lisbon",
     discipline: "Commercial",
     disciplineKey: "commercial",
     year: "2024",
@@ -67,7 +67,7 @@ const en: Project[] = [
   {
     slug: "festival-main-stage",
     title: "Main stage backdrop and wings",
-    location: "Ottawa",
+    location: "Parque da Bela Vista",
     discipline: "Rental",
     disciplineKey: "rental",
     year: "2025",
@@ -84,7 +84,7 @@ const en: Project[] = [
   {
     slug: "highway-401-network",
     title: "Corridor billboard network",
-    location: "Highway 401, Ontario",
+    location: "A1 Motorway, Vila Franca de Xira",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2024",
@@ -101,7 +101,7 @@ const en: Project[] = [
   {
     slug: "financial-district-corner",
     title: "Corner-wrap podium screen",
-    location: "Financial District, Toronto",
+    location: "Saldanha, Lisbon",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2024",
@@ -121,7 +121,7 @@ const pt: Project[] = [
   {
     slug: "bay-street-media-facade",
     title: "Fachada de media de oito pisos",
-    location: "Bay Street, Toronto",
+    location: "Avenida da Liberdade, Lisboa",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2025",
@@ -138,7 +138,7 @@ const pt: Project[] = [
   {
     slug: "grid-control-room",
     title: "Parede de vídeo de sala de controlo",
-    location: "Mississauga",
+    location: "Alfragide",
     discipline: "Profissional",
     disciplineKey: "professional",
     year: "2025",
@@ -155,7 +155,7 @@ const pt: Project[] = [
   {
     slug: "queen-west-shopfront",
     title: "Montra transparente",
-    location: "Queen Street West, Toronto",
+    location: "Rua Garrett, Lisboa",
     discipline: "Comercial",
     disciplineKey: "commercial",
     year: "2024",
@@ -172,7 +172,7 @@ const pt: Project[] = [
   {
     slug: "festival-main-stage",
     title: "Cenário e alas de palco principal",
-    location: "Otava",
+    location: "Parque da Bela Vista",
     discipline: "Aluguer",
     disciplineKey: "rental",
     year: "2025",
@@ -189,7 +189,7 @@ const pt: Project[] = [
   {
     slug: "highway-401-network",
     title: "Rede de outdoors em corredor",
-    location: "Autoestrada 401, Ontário",
+    location: "Autoestrada A1, Vila Franca de Xira",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2024",
@@ -206,7 +206,7 @@ const pt: Project[] = [
   {
     slug: "financial-district-corner",
     title: "Ecrã de embasamento em esquina",
-    location: "Distrito financeiro, Toronto",
+    location: "Saldanha, Lisboa",
     discipline: "DOOH",
     disciplineKey: "dooh",
     year: "2024",

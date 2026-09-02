@@ -59,13 +59,13 @@ export const en = {
   },
 
   hero: {
-    eyebrow: "Supply · Install · Service · Ontario",
+    eyebrow: "Supply · Install · Service · Lisbon",
     titleTop: "The whole wall.",
     titleBottom: "One contract.",
-    lede: "We engineer, install and service LED display systems across Ontario, from structural drawings through final pixel calibration. No subcontractors. No panels that quit in February.",
+    lede: "We engineer, install and service LED display systems across Lisbon, from structural drawings through final pixel calibration. No subcontractors. No panels that quit in February.",
     playVideo: "Play background video",
     proof: [
-      { value: "12", unit: "yrs", label: "Operating in Ontario" },
+      { value: "12", unit: "yrs", label: "Operating in Lisbon" },
       { value: "400", unit: "+", label: "Installs commissioned" },
       { value: "4", unit: "hr", label: "Average service response" },
     ],
@@ -111,7 +111,7 @@ export const en = {
         name: "Ingress rating",
         unit: "IP",
         meaning:
-          "Sealing against dust and water. Anything mounted outdoors in Ontario is specified at IP65 front and rear, because the failure mode is not rain. It is a freeze-thaw cycle on trapped moisture.",
+          "Sealing against dust and water. Anything mounted outdoors in Lisbon is specified at IP65 front and rear, because the failure mode is not rain. It is UV breakdown and salt-laden air off the river working into anything not sealed properly.",
       },
     ],
   },
@@ -129,7 +129,7 @@ export const en = {
       {
         title: "Structural design",
         produces: "Stamped drawings",
-        body: "Secondary steel, wind loading and anchor details, stamped by a Professional Engineer licensed in Ontario. Drawings go to the building's own engineer for sign-off.",
+        body: "Secondary steel, wind loading and anchor details, stamped by a professional engineer registered in Portugal. Drawings go to the building's own engineer for sign-off.",
       },
       {
         title: "Supply",
@@ -149,13 +149,13 @@ export const en = {
       {
         title: "Service",
         produces: "Response SLA",
-        body: "Spares held in Ontario, a four-hour average response, and per-cabinet telemetry that flags a failing module before your audience notices it.",
+        body: "Spares held in Lisbon, a four-hour average response, and per-cabinet telemetry that flags a failing module before your audience notices it.",
       },
     ],
   },
 
   projects: {
-    eyebrow: "Windsor to Ottawa",
+    eyebrow: "Cascais to Setúbal",
     heading: "Installed and operational",
     intro:
       "Every one of these was surveyed, engineered, installed and commissioned by the same company that services it today.",
@@ -295,7 +295,7 @@ export const en = {
   },
 
   galleryPage: {
-    eyebrow: "Windsor to Ottawa",
+    eyebrow: "Cascais to Setúbal",
     title: "Installed, commissioned, still running",
     lede: "Every project here was surveyed, engineered, built and commissioned by the same company that services it today. The specs listed are the as-built figures, not the brochure ones.",
     /** Trails the shown / total readout above the index. */
@@ -315,7 +315,7 @@ export const en = {
   },
 
   aboutPage: {
-    eyebrow: "Twelve years in Ontario",
+    eyebrow: "Twelve years in Lisbon",
     title: "We fix the problem we saw in the field",
     lede: "We started CityScreen because we were tired of pulling cheap offshore panels off walls. A display is a capital asset, not a disposable screen, so we engineer every install for the site, handle the permit, fabricate the steel, and stay on call for the life of the product.",
     principlesEyebrow: "How we work",
@@ -327,7 +327,7 @@ export const en = {
       },
       {
         title: "The steel is not where you save money",
-        body: "A display is only as good as what it hangs on. Our P.Eng stamps the structural drawings, our Red Seal fabricator builds the frame, and we inspect the formwork before the pour.",
+        body: "A display is only as good as what it hangs on. Our registered engineer stamps the structural drawings, our certified fabricator builds the frame, and we inspect the formwork before the pour.",
       },
       {
         title: "No subcontractors on core work",
@@ -341,9 +341,9 @@ export const en = {
     scaleEyebrow: "Scale",
     scaleHeading: "Numbers that matter to a facility manager",
     scaleBody:
-      "We measure our work in installs completed and service calls closed. Here is what that looks like across Ontario.",
+      "We measure our work in installs completed and service calls closed. Here is what that looks like across Lisbon.",
     numbers: [
-      { value: "12+", label: "Years serving Ontario" },
+      { value: "12+", label: "Years serving Lisbon" },
       { value: "400+", label: "Installs completed" },
       { value: "4 hr", label: "Average service response" },
       { value: "99%", label: "Warranty fulfilment rate" },
@@ -351,7 +351,7 @@ export const en = {
     teamEyebrow: "Six people, one building",
     teamHeading: "The people who will actually be on your site",
     teamBody:
-      "Engineers, project managers and technicians who have built displays across Ontario. You will meet most of them before handover.",
+      "Engineers, project managers and technicians who have built displays across Lisbon. You will meet most of them before handover.",
     team: [
       {
         name: "Michael Chen",
@@ -361,12 +361,12 @@ export const en = {
       {
         name: "Sarah Okonkwo",
         role: "Project delivery",
-        body: "Manages installs from site walk to handover. Former AV integration lead for stadium and arena projects across Canada.",
+        body: "Manages installs from site walk to handover. Former AV integration lead for stadium and arena projects across Europe.",
       },
       {
         name: "David Tremblay",
         role: "Fabrication",
-        body: "Red Seal welder and fabricator. Builds every mounting structure to the millimetre. No field modifications required.",
+        body: "Certified welder and fabricator. Builds every mounting structure to the millimetre. No field modifications required.",
       },
       {
         name: "Priya Kapoor",
@@ -381,7 +381,7 @@ export const en = {
       {
         name: "Leila Ahmadi",
         role: "Permits & approvals",
-        body: "Navigates municipal approvals across Ontario. Knows the difference between a variance and a minor revision.",
+        body: "Navigates municipal approvals across Lisbon. Knows the difference between a variance and a minor revision.",
       },
     ],
     hiringHeading: "We’re hiring",
@@ -406,7 +406,7 @@ export const en = {
     reachEyebrow: "Reach us directly",
     officeLabel: "Office",
     hours:
-      "Monday to Friday, 07:00 – 17:00 ET. Service line runs 24/7 for active events and monitored installs.",
+      "Monday to Friday, 07:00 – 17:00, Lisbon time. Service line runs 24/7 for active events and monitored installs.",
     whereEyebrow: "Where to send what",
     routes: [
       {
@@ -447,7 +447,7 @@ export const en = {
 
   resourcesPage: {
     eyebrow: "Written by the engineers",
-    title: "Technical knowledge for Ontario",
+    title: "Technical knowledge for Lisbon",
     lede: "Straightforward guides from the people who specify, stamp and commission these systems. Written so you can hold any supplier to them, including us.",
     minutesSuffix: "min",
     articles: [
@@ -471,7 +471,7 @@ export const en = {
         topic: "Maintenance",
         minutes: "5",
         summary:
-          "What the two digits actually mean, why front and rear ratings differ, and why the failure mode in Ontario is a freeze-thaw cycle on trapped moisture rather than rain.",
+          "What the two digits actually mean, why front and rear ratings differ, and why the failure mode in Lisbon is salt-laden air and UV breakdown rather than rain.",
       },
       {
         title: "Sizing the electrical service for a digital billboard",
@@ -481,11 +481,11 @@ export const en = {
           "Average draw versus full-white peak, how to read a per-square-metre figure, and the load calculation your electrician will ask for before they size the panel.",
       },
       {
-        title: "The Ontario permit timeline, stage by stage",
+        title: "The Lisbon permit timeline, stage by stage",
         topic: "Permits",
         minutes: "8",
         summary:
-          "Municipal sign by-laws, when the MTO becomes involved, what a minor variance costs you in weeks, and the site conditions that mean the answer is simply no.",
+          "Municipal sign regulations, when a motorway sits nearby, what a minor variance costs you in weeks, and the site conditions that mean the answer is simply no.",
       },
       {
         title: "Reading an LED datasheet without being sold to",
@@ -508,7 +508,7 @@ export const en = {
   warrantyPage: {
     eyebrow: "Four-hour average response",
     title: "We do not disappear after the install",
-    lede: "A CityScreen technician answers your call from our Ontario office. We keep parts in stock here, and we stock modules for every system we have ever installed, including the ones we stopped selling years ago.",
+    lede: "A CityScreen technician answers your call from our Lisbon office. We keep parts in stock here, and we stock modules for every system we have ever installed, including the ones we stopped selling years ago.",
     stats: [
       { label: "Parts & labour", value: "5 years" },
       { label: "Average response", value: "4 hours" },
@@ -523,12 +523,12 @@ export const en = {
         body: "Phone and remote diagnostics from technicians who know your specific installation, because they commissioned it. We built it, we support it.",
       },
       {
-        title: "Parts held in Ontario",
+        title: "Parts held in Lisbon",
         body: "Spare modules, power supplies and receiving cards for every system we have ever installed sit on a shelf here, not in a warehouse overseas on a twelve-week lead time.",
       },
       {
         title: "Our own technicians",
-        body: "A CityScreen technician in a CityScreen vehicle arrives at your site. We do not subcontract service, from Windsor to Ottawa and north to Timmins.",
+        body: "A CityScreen technician in a CityScreen vehicle arrives at your site. We do not subcontract service, from Cascais to Vila Franca de Xira and south across the river to Setúbal.",
       },
       {
         title: "Per-cabinet telemetry",
@@ -542,7 +542,7 @@ export const en = {
       {
         n: "01",
         title: "Contact the desk",
-        body: "Call or email the Ontario service team directly. No ticket portal, no offshore first line, no script.",
+        body: "Call or email the Lisbon service team directly. No ticket portal, no offshore first line, no script.",
       },
       {
         n: "02",
@@ -586,7 +586,7 @@ export const en = {
       },
       {
         parameter: "Local parts inventory",
-        cityscreen: "Held in Ontario",
+        cityscreen: "Held in Lisbon",
         offshore: "Ordered from overseas",
       },
       {
@@ -596,7 +596,7 @@ export const en = {
       },
       {
         parameter: "Permits and engineering",
-        cityscreen: "In-house P.Eng, included",
+        cityscreen: "In-house registered engineer, included",
         offshore: "Your responsibility",
       },
       {
@@ -608,7 +608,7 @@ export const en = {
     faqEyebrow: "Service questions",
     faqHeading: "Warranty and service, answered",
     faqIntro:
-      "Direct answers about our warranty and service commitment across Ontario.",
+      "Direct answers about our warranty and service commitment across Lisbon.",
     ctaHeading: "Something on the wall is out?",
     ctaBody:
       "Call the service desk with the site address and what you are seeing. If it is one of ours we will already have the telemetry open by the time you finish describing it.",
@@ -617,13 +617,13 @@ export const en = {
   /** The lead-capture form on /contact-us. */
   form: {
     fullName: "Full name",
-    fullNamePlaceholder: "Dana Whitfield",
+    fullNamePlaceholder: "Vitor Cunha",
     workEmail: "Work email",
-    workEmailPlaceholder: "dana@northfacilities.ca",
+    workEmailPlaceholder: "vitor@cityprint.pt",
     company: "Company",
-    companyPlaceholder: "Northgate Facilities",
+    companyPlaceholder: "CityPrint",
     location: "Project location",
-    locationPlaceholder: "Mississauga, ON",
+    locationPlaceholder: "Setúbal, Portugal",
     projectType: "Project type",
     projectTypePlaceholder: "Select the discipline",
     carriedOver:
@@ -713,13 +713,13 @@ export const pt: Dict = {
   },
 
   hero: {
-    eyebrow: "Fornecimento · Instalação · Assistência · Ontário",
+    eyebrow: "Fornecimento · Instalação · Assistência · Lisboa",
     titleTop: "A parede inteira.",
     titleBottom: "Um só contrato.",
-    lede: "Projetamos, instalamos e assistimos sistemas de ecrãs LED em todo o Ontário, do desenho estrutural à calibração final de píxel. Sem subcontratados. Sem painéis que desistem em fevereiro.",
+    lede: "Projetamos, instalamos e assistimos sistemas de ecrãs LED em toda a área de Lisboa, do desenho estrutural à calibração final de píxel. Sem subcontratados. Sem painéis que desistem em fevereiro.",
     playVideo: "Reproduzir vídeo de fundo",
     proof: [
-      { value: "12", unit: "anos", label: "A operar no Ontário" },
+      { value: "12", unit: "anos", label: "A operar em Lisboa" },
       { value: "400", unit: "+", label: "Instalações concluídas" },
       { value: "4", unit: "h", label: "Resposta média de assistência" },
     ],
@@ -762,7 +762,7 @@ export const pt: Dict = {
         name: "Grau de proteção",
         unit: "IP",
         meaning:
-          "Vedação contra pó e água. Tudo o que é montado no exterior no Ontário é especificado a IP65 à frente e atrás, porque o modo de falha não é a chuva. É o ciclo de gelo e degelo sobre humidade retida.",
+          "Vedação contra pó e água. Tudo o que é montado no exterior em Lisboa é especificado a IP65 à frente e atrás, porque o modo de falha não é a chuva. É a degradação por UV e o ar salino do rio a infiltrar-se em tudo o que não está bem vedado.",
       },
     ],
   },
@@ -780,7 +780,7 @@ export const pt: Dict = {
       {
         title: "Projeto estrutural",
         produces: "Desenhos carimbados",
-        body: "Estrutura secundária, cargas de vento e detalhes de fixação, carimbados por um Engenheiro licenciado no Ontário. Os desenhos seguem para o engenheiro do próprio edifício para aprovação.",
+        body: "Estrutura secundária, cargas de vento e detalhes de fixação, carimbados por um engenheiro inscrito na Ordem dos Engenheiros. Os desenhos seguem para o engenheiro do próprio edifício para aprovação.",
       },
       {
         title: "Fornecimento",
@@ -800,13 +800,13 @@ export const pt: Dict = {
       {
         title: "Assistência",
         produces: "SLA de resposta",
-        body: "Peças em stock no Ontário, resposta média de quatro horas e telemetria por módulo que sinaliza uma falha antes de o seu público reparar nela.",
+        body: "Peças em stock em Lisboa, resposta média de quatro horas e telemetria por módulo que sinaliza uma falha antes de o seu público reparar nela.",
       },
     ],
   },
 
   projects: {
-    eyebrow: "De Windsor a Otava",
+    eyebrow: "De Cascais a Setúbal",
     heading: "Instalado e a funcionar",
     intro:
       "Cada um destes foi levantado, projetado, instalado e comissionado pela mesma empresa que hoje lhe faz a assistência.",
@@ -945,7 +945,7 @@ export const pt: Dict = {
   },
 
   galleryPage: {
-    eyebrow: "De Windsor a Otava",
+    eyebrow: "De Cascais a Setúbal",
     title: "Instalado, comissionado, ainda a funcionar",
     lede: "Cada projeto aqui apresentado foi levantado, projetado, construído e comissionado pela mesma empresa que hoje lhe presta assistência. As especificações indicadas são os valores reais da obra, não os do catálogo.",
     countLabel: "Projetos",
@@ -964,7 +964,7 @@ export const pt: Dict = {
   },
 
   aboutPage: {
-    eyebrow: "Doze anos no Ontário",
+    eyebrow: "Doze anos em Lisboa",
     title: "Resolvemos o problema que vimos no terreno",
     lede: "Criámos a CityScreen porque estávamos fartos de retirar painéis baratos importados das paredes. Um ecrã é um ativo de capital, não um monitor descartável, por isso projetamos cada instalação para o local, tratamos do licenciamento, fabricamos a estrutura e ficamos disponíveis durante toda a vida útil do produto.",
     principlesEyebrow: "Como trabalhamos",
@@ -990,9 +990,9 @@ export const pt: Dict = {
     scaleEyebrow: "Dimensão",
     scaleHeading: "Números que interessam a um gestor de instalações",
     scaleBody:
-      "Medimos o nosso trabalho em instalações concluídas e chamadas de assistência encerradas. É isto que isso representa em todo o Ontário.",
+      "Medimos o nosso trabalho em instalações concluídas e chamadas de assistência encerradas. É isto que isso representa em toda a área de Lisboa.",
     numbers: [
-      { value: "12+", label: "Anos ao serviço do Ontário" },
+      { value: "12+", label: "Anos ao serviço de Lisboa" },
       { value: "400+", label: "Instalações concluídas" },
       { value: "4 h", label: "Resposta média de assistência" },
       { value: "99%", label: "Taxa de cumprimento da garantia" },
@@ -1000,7 +1000,7 @@ export const pt: Dict = {
     teamEyebrow: "Seis pessoas, um edifício",
     teamHeading: "As pessoas que vão estar mesmo no seu local",
     teamBody:
-      "Engenheiros, gestores de projeto e técnicos que construíram ecrãs por todo o Ontário. Vai conhecer a maioria antes da entrega.",
+      "Engenheiros, gestores de projeto e técnicos que construíram ecrãs por toda a área de Lisboa. Vai conhecer a maioria antes da entrega.",
     team: [
       {
         name: "Michael Chen",
@@ -1010,7 +1010,7 @@ export const pt: Dict = {
       {
         name: "Sarah Okonkwo",
         role: "Execução de projeto",
-        body: "Gere as instalações desde a visita ao local até à entrega. Ex-responsável de integração AV em projetos de estádios e arenas por todo o Canadá.",
+        body: "Gere as instalações desde a visita ao local até à entrega. Ex-responsável de integração AV em projetos de estádios e arenas por toda a Europa.",
       },
       {
         name: "David Tremblay",
@@ -1030,7 +1030,7 @@ export const pt: Dict = {
       {
         name: "Leila Ahmadi",
         role: "Licenciamento e aprovações",
-        body: "Trata das aprovações municipais em todo o Ontário. Sabe a diferença entre uma exceção e uma revisão menor.",
+        body: "Trata das aprovações municipais em toda a área de Lisboa. Sabe a diferença entre uma exceção e uma revisão menor.",
       },
     ],
     hiringHeading: "Estamos a recrutar",
@@ -1055,7 +1055,7 @@ export const pt: Dict = {
     reachEyebrow: "Fale connosco diretamente",
     officeLabel: "Escritório",
     hours:
-      "Segunda a sexta, 07:00 – 17:00 ET. A linha de assistência funciona 24 horas por dia para eventos ativos e instalações monitorizadas.",
+      "Segunda a sexta, 07:00 – 17:00, hora de Lisboa. A linha de assistência funciona 24 horas por dia para eventos ativos e instalações monitorizadas.",
     whereEyebrow: "Para onde enviar o quê",
     routes: [
       {
@@ -1096,7 +1096,7 @@ export const pt: Dict = {
 
   resourcesPage: {
     eyebrow: "Escrito pelos engenheiros",
-    title: "Conhecimento técnico para o Ontário",
+    title: "Conhecimento técnico para Lisboa",
     lede: "Guias diretos escritos por quem especifica, carimba e comissiona estes sistemas. Escritos para que possa exigir o mesmo de qualquer fornecedor, incluindo de nós.",
     minutesSuffix: "min",
     articles: [
@@ -1120,7 +1120,7 @@ export const pt: Dict = {
         topic: "Manutenção",
         minutes: "5",
         summary:
-          "O que os dois dígitos significam realmente, porque diferem os graus à frente e atrás, e porque no Ontário o modo de falha é o ciclo de gelo-degelo sobre humidade retida, e não a chuva.",
+          "O que os dois dígitos significam realmente, porque diferem os graus à frente e atrás, e porque em Lisboa o modo de falha é o ar salino e a degradação por UV, e não a chuva.",
       },
       {
         title: "Dimensionar a alimentação elétrica de um outdoor digital",
@@ -1130,11 +1130,11 @@ export const pt: Dict = {
           "Consumo médio face ao pico a branco total, como ler um valor por metro quadrado e o cálculo de carga que o seu eletricista vai pedir antes de dimensionar o quadro.",
       },
       {
-        title: "O prazo de licenciamento no Ontário, fase a fase",
+        title: "O prazo de licenciamento em Lisboa, fase a fase",
         topic: "Licenciamento",
         minutes: "8",
         summary:
-          "Regulamentos municipais de publicidade, quando o MTO entra em cena, quantas semanas custa uma exceção menor e as condições do local que significam simplesmente não.",
+          "Regulamentos municipais de publicidade, quando a proximidade a uma autoestrada entra em cena, quantas semanas custa uma exceção menor e as condições do local que significam simplesmente não.",
       },
       {
         title: "Ler uma ficha técnica de LED sem ser vendido",
@@ -1157,7 +1157,7 @@ export const pt: Dict = {
   warrantyPage: {
     eyebrow: "Resposta média de quatro horas",
     title: "Não desaparecemos depois da instalação",
-    lede: "Um técnico da CityScreen atende a sua chamada a partir do nosso escritório no Ontário. Mantemos peças em stock aqui e temos módulos para todos os sistemas que alguma vez instalámos, incluindo os que deixámos de vender há anos.",
+    lede: "Um técnico da CityScreen atende a sua chamada a partir do nosso escritório em Lisboa. Mantemos peças em stock aqui e temos módulos para todos os sistemas que alguma vez instalámos, incluindo os que deixámos de vender há anos.",
     stats: [
       { label: "Peças e mão de obra", value: "5 anos" },
       { label: "Resposta média", value: "4 horas" },
@@ -1172,12 +1172,12 @@ export const pt: Dict = {
         body: "Diagnóstico telefónico e remoto por técnicos que conhecem a sua instalação específica, porque foram eles que a comissionaram. Nós construímos, nós apoiamos.",
       },
       {
-        title: "Peças em stock no Ontário",
+        title: "Peças em stock em Lisboa",
         body: "Módulos de reserva, fontes de alimentação e placas recetoras para todos os sistemas que alguma vez instalámos estão numa prateleira aqui, não num armazém no estrangeiro com doze semanas de prazo.",
       },
       {
         title: "Técnicos nossos",
-        body: "Um técnico da CityScreen, num veículo da CityScreen, chega ao seu local. Não subcontratamos assistência, de Windsor a Otava e até Timmins, a norte.",
+        body: "Um técnico da CityScreen, num veículo da CityScreen, chega ao seu local. Não subcontratamos assistência, de Cascais a Vila Franca de Xira e a sul do rio até Setúbal.",
       },
       {
         title: "Telemetria por cabinete",
@@ -1192,7 +1192,7 @@ export const pt: Dict = {
       {
         n: "01",
         title: "Contactar a assistência",
-        body: "Ligue ou escreva diretamente à equipa de assistência do Ontário. Sem portal de tickets, sem primeira linha no estrangeiro, sem guião.",
+        body: "Ligue ou escreva diretamente à equipa de assistência de Lisboa. Sem portal de tickets, sem primeira linha no estrangeiro, sem guião.",
       },
       {
         n: "02",
@@ -1236,7 +1236,7 @@ export const pt: Dict = {
       },
       {
         parameter: "Stock local de peças",
-        cityscreen: "Mantido no Ontário",
+        cityscreen: "Mantido em Lisboa",
         offshore: "Encomendado ao estrangeiro",
       },
       {
@@ -1258,7 +1258,7 @@ export const pt: Dict = {
     faqEyebrow: "Perguntas sobre assistência",
     faqHeading: "Garantia e assistência, respondidas",
     faqIntro:
-      "Respostas diretas sobre o nosso compromisso de garantia e assistência em todo o Ontário.",
+      "Respostas diretas sobre o nosso compromisso de garantia e assistência em toda a área de Lisboa.",
     ctaHeading: "Alguma coisa no ecrã está avariada?",
     ctaBody:
       "Ligue para a assistência com a morada do local e o que está a ver. Se for um dos nossos, já teremos a telemetria aberta quando acabar de descrever.",
@@ -1266,13 +1266,13 @@ export const pt: Dict = {
 
   form: {
     fullName: "Nome completo",
-    fullNamePlaceholder: "Dana Whitfield",
+    fullNamePlaceholder: "Vitor Cunha",
     workEmail: "Email profissional",
-    workEmailPlaceholder: "dana@northfacilities.ca",
+    workEmailPlaceholder: "vitor@cityprint.pt",
     company: "Empresa",
-    companyPlaceholder: "Northgate Facilities",
+    companyPlaceholder: "CityPrint",
     location: "Localização do projeto",
-    locationPlaceholder: "Mississauga, ON",
+    locationPlaceholder: "Setúbal, Portugal",
     projectType: "Tipo de projeto",
     projectTypePlaceholder: "Selecione a disciplina",
     carriedOver:
